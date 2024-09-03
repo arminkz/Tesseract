@@ -6,9 +6,10 @@ This is the git repository for my Custom made 3D Printer based on Tech2C's [Hype
 
 ### Features
 
-* Bowden Extrusion
-* CoreXY Kinematics
-* Semi-Industrial Standard
+* Bowden extrusion
+* CoreXY kinematics
+* Semi-Industrial standard
+* Open source and fully customizable
 
 ### Frimware
 
